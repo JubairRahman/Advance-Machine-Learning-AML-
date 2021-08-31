@@ -1,0 +1,2 @@
+//customWowjs
+new WOW().init();
